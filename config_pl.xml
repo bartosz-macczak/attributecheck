@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>attributecheck</name>
+	<displayName><![CDATA[Find zero-prices attributes.]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[With this module, you will find zero-prices attributes]]></description>
+	<author><![CDATA[Bartosz Ma�czak]]></author>
+	<tab><![CDATA[content_management]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
